@@ -7,6 +7,28 @@ ul {
   align-content: center;
   
 }
+input{
+  width: 200px;
+  height: 25px;
+  border-radius: 30px;
+  text-align: center;
+}
+#bulletpara{
+  display: grid;
+}
+#bulletdiv{
+  display: flex;
+}
+button:hover {
+  background-color: darkgray;
+}
+button {
+  height: 40px;
+  width: 200px;
+  border-radius: 30px;
+  font-size: large;
+}
+
 li{
   display: flex;
   padding-right: 60px;
@@ -32,4 +54,14 @@ footer {
   justify-content: center;
   text-align: center;
   align-items: center;
+}
+form{
+
+  background-image: linear-gradient(skyblue, black);
+  height: 500px;
+  text-align: center;
+  border: 1px solid black;
+}
+nav {
+  border: 1px solid black;
 }
