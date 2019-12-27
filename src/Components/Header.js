@@ -2,9 +2,10 @@ import React from 'react';
 
 function Header(){
     return (
-        <header>
-            <h1>Haberdashery</h1>
+        
+            
             <nav>
+                <h1 className="title">Haberdashery</h1>
                 <ul>
                     <li>Home</li>
                     <li>Products</li>
@@ -12,7 +13,7 @@ function Header(){
                     <li>Contact</li>
                 </ul>
             </nav>
-        </header>
+        
     )
 }
 export default Header;

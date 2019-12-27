@@ -2,7 +2,9 @@ import React from 'react';
 
 function Footer(){
     return (
-        <h2>footer</h2>
+        <footer>
+           &copy; Copyright 2019. Haberdashery &reg;
+        </footer>
     )
 }
 export default Footer;
