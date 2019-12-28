@@ -1,10 +1,12 @@
 import React from 'react';
+import yarn from '../Components/yarn.svg';
 
 function Header(){
     return (
         <header id="header">
             
             <nav id="nav-bar">
+            <img src={yarn} alt="yarn" width="70px" height="60px" />
                 <h1 className="title">Haberdashery</h1>
                 <ul>
                     <li className="nav-link"><a href="#">Home</a></li>

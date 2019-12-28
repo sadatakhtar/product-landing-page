@@ -1,11 +1,12 @@
 import React from 'react';
 import check from '../Components/check.svg';
 import wool from '../Components/wool.svg';
+import Staticpage from '../Components/Staticpage';
 
 function Form(){
     return (
         
-        <form>
+        <form action="https://www.freecodecamp.org/email-submit" id="form">
             <h2>Product Landing Page</h2>
             
             <br/>
