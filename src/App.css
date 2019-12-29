@@ -32,8 +32,16 @@ button {
 li{
   display: flex;
   padding-right: 60px;
-  
-  
+}
+
+a:hover {
+  background-color: darkgray;
+  color: orangered;
+  font-size: 20px;
+  font-style: italic;
+}
+a{ 
+  color:  black;
 }
 nav {
   height: 100px;

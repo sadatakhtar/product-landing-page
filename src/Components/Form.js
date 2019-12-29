@@ -6,7 +6,7 @@ import Staticpage from '../Components/Staticpage';
 function Form(){
     return (
         
-        <form action="https://www.freecodecamp.org/email-submit" id="form">
+        <form action="https://www.freecodecamp.org/email-submit" target="_blank" id="form">
             <h2>Product Landing Page</h2>
             
             <br/>
