@@ -91,3 +91,9 @@ h2 {
 h1 {
   margin-inline-end: auto;
 }
+.productlist {
+  background-color: skyblue;
+  text-align: center;
+  font-size: 30px;
+  margin: 0px;
+}

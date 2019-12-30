@@ -5,6 +5,7 @@ import './App.css';
 import Form from './Components/Form';
 import Bulletpoints from './Components/Bulletpoints';
 import Video from './Components/video';
+import ProductList from './Components/ProductList';
 
 class App extends Component {
   render() {
@@ -12,6 +13,7 @@ class App extends Component {
    <div>
      <Header />
      <Form />
+     <ProductList />
      <Video />
      <Footer />
    </div>
