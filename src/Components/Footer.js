@@ -3,7 +3,7 @@ import React from 'react';
 function Footer(){
     return (
         <footer>
-           &copy; Copyright 2019. Haberdashery &reg;
+           &copy; Copyright 2019. Haberdashery by Sadat Akhtar &reg;
         </footer>
     )
 }
